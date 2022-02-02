@@ -1,0 +1,57 @@
+p {
+    color: rgb(4, 56, 5); 
+            font-size: 16px;}
+
+.h1 {
+    color: rgb(7, 80, 7);font-family: cursive;font-size:xx-large;text-align: center;
+}
+
+.first {
+    color: green;border: rgb(43, 80, 5); font-family: fantasy;
+}
+
+.head {
+    color: rgb(7, 80, 7);font-family: cursive;font-size: larger;
+}
+
+#pete {
+    color: rgb(128, 0, 0);border: rgb(43, 80, 5); font-family: fantasy; background-color: lemonchiffon;
+}
+
+.pete {
+    color: rgb(4, 56, 5); 
+    font-family: monospace;
+    background-color: rgba(24, 246, 28, 0.416);
+}
+
+.ete {
+    color: rgb(2, 12, 70); 
+    font-family: monospace;
+    background-color: rgba(21, 193, 232, 0.598);
+}
+
+.mayor {
+    color: rgb(13, 0, 254); 
+    font-family: monospace;
+    background-color: rgb(23, 213, 255);
+}
+
+.ray {
+    color: rgb(0, 195, 254); 
+    font-family: monospace;
+    background-color: rgb(7, 9, 75);
+}
+
+.eron{
+    color: rgb(255, 255, 255); 
+    font-family: monospace;
+    background-color: rgb(148, 54, 206);
+}
+
+
+.zedd{
+    color: rgb(84, 9, 8); 
+    font-family: monospace;
+    background-color: rgb(233, 217, 217);
+
+}
