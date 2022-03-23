@@ -1,0 +1,87 @@
+html {
+    
+    font-family: 'Open Sans', sans-serif;
+    margin: 8px;
+
+    }
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    padding-left: 12px;
+    padding-bottom: 8px;
+    }
+
+.intro {
+    background-color: chartreuse;
+    background-image: url("https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F9bc1a1000b9b517a428335bd9d3f471e1228ad2b");
+
+    background-image: cover;
+    padding: 10% 5% 45% 40%;
+    background-position: 20%;
+
+
+    }
+
+    .title { 
+
+        font-family: 'Otomanopee One', sans-serif;
+        font-size: 40px;
+        margin: auto;
+        text-align: center;
+        padding-top: 8px;
+        }
+    
+    .preface {
+        font-family: 'Poppins', sans-serif;
+        font-weight: lighter;
+        font-style: italic;
+
+        }
+
+    
+.left{
+    float: left;
+    width: 20%;
+    background-color: rgb(223, 238, 207);
+    
+   
+    }
+
+.right {
+    float: right;
+    width: 69%;
+    
+   
+
+}
+    
+.instruct{
+   margin: 0%; 
+}
+
+.adapt {
+    color: darkblue;
+}
+
+    #adapt h2 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: lighter;
+        font-variant: all-small-caps;
+        font-size: 32px;
+        margin-left: .1px;
+        margin-bottom: 1px;
+        
+       
+    }
+
+    #adapt p {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: lighter;
+        margin: 1px 15px 1px 19px;
+        font-size: 14px;
+        text-align: left;
+    }
+
+@media (max-width:960px){
+    
+}
