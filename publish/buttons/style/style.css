@@ -1,0 +1,286 @@
+body {
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 40px;
+}
+
+.button_container {
+    border: 1px solid #ddd;
+    margin: 0 10px 10px 0;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+     font-size: 30px;
+     margin-bottom: 40px;
+}
+
+a#btn_tesla{
+    display: inline-block;
+				height: 38px;
+				box-sizing: border-box;
+				border-radius: 25px;
+				margin: auto;
+				margin-top: 100px;
+                width: 219px;
+                padding: 10px 0px 0px 0px;
+    
+    background-color: #a4b1c8;
+    text-decoration: none;
+    border-radius: 32px; 
+    transition: all .5s;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    
+    
+    }   
+
+a#btn_nike {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    width: 198px;
+    height: 83px;
+    box-sizing: border-box;
+    border-radius: 61px;
+    margin: auto;
+    margin-top: 75px;
+    padding-top: 14px;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    font-size: 48px;
+    transition: all .2s;
+    text-decoration: none;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    color: white;
+			}
+
+    a#btn_nike:hover{
+        background-color: rgb(255, 145, 0);
+    }
+
+    a#btn_lyft
+    {
+        font-family: 'Sofia', cursive;
+        display: block;
+    width: 105px;
+    height: 109px;
+    box-sizing: border-box;
+    border-radius: 19px;
+    margin: auto;
+    margin-top: 75px;
+    padding-top: 16px;
+    background-color: #FF00BF;
+    color: #fff;
+    text-align: center;
+    font-size: 48px;
+    transition: all .2s;
+    text-decoration: none;
+    color: white;
+    }
+
+    a#btn_lyft:hover
+    {
+        background-color: #ff00bfb6;
+    }
+
+    a#btn_craig
+    {
+        font-family: 'Times New Roman', Times, serif;
+        display: block;
+        padding-top: 82px;
+      
+        text-align: center;
+        font-size: 48px;
+        transition: all .2s;
+        text-decoration: underline;
+        color: #0000ed;
+    }
+
+    a#btn_craig:hover{
+        color: #3b0b7e;
+    }
+
+    
+
+    a#btn_elc
+    {
+        font-family: 'Dancing Script', cursive;
+        display: block;
+        width: 188px;
+        height: 98px;
+        box-sizing: border-box;
+        border-radius: 0px;
+        margin: auto;
+        margin-top: 75px;
+        padding-top: 12px;
+        background-color: #00a8cb;
+        color: white;
+        text-align: center;
+        font-size: 48px;
+        transition: all .2s;
+        text-decoration: none;
+   
+    }
+
+    a#btn_hog
+        {
+        font-family:  'Butcherman', cursive;
+        display: block;
+        width: 188px;
+        height: 129px;
+        box-sizing: border-box;
+        border-radius: 5px;
+        margin: auto;
+        margin-top: 72px;
+        padding-top: 23px;
+        background-color: #000000;
+        color: #fcb900;
+        text-align: center;
+        font-size: 48px;
+        transition: all .2s;
+        text-decoration: none;
+        line-height: 40px;
+        box-shadow: 10px 5px 5px #fcb900;;
+   
+        }
+
+    a#btn_hog:hover{
+        background-color: white;
+
+    }
+
+    a#btn_hsn
+    {
+        font-family:  'Poppins', sans-serif;
+        display: block;
+        width: 112px;
+        height: 113px;
+        box-sizing: border-box;
+        border-radius: 163px;
+        margin: auto;
+        margin-top: 72px;
+        padding-top: 37px;
+        background-color:  #0077c8;
+        color: white;
+        text-align: center;
+        font-size: 36px;
+        transition: all .2s;
+        text-decoration: none;
+        line-height: 40px;
+        
+   
+        }
+
+        a#btn_hsn:hover{
+            background-color:  white;
+            color:#0077c8;
+        }
+
+        a#btn_mt
+        {
+            font-family:   'Roboto Condensed', sans-serif;
+            display: block;
+            width: 145px;
+            height: 130px;
+            box-sizing: border-box;
+            border-radius: 3px;
+            margin: auto;
+            margin-top: 64px;
+            padding-top: 22px;
+            background-color:  #da2c2c;
+            color: white;
+            text-align: center;
+            font-size: 40px;
+            transition: all .2s;
+            text-decoration: none;
+            line-height: 45px;
+            text-transform: uppercase;
+            letter-spacing: -3px;
+
+            
+       
+            }
+
+            a#btn_mt:hover{
+                transform: translateY(-5px);
+                box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+
+            }
+
+     a#btn_npr
+        {
+            font-family:sans-serif;
+            display: block;
+            width: 201px;
+            height: 92px;
+            box-sizing: border-box;
+            border-radius: 0px;
+            margin: auto;
+            margin-top: 64px;
+            padding-top: 22px;
+            background-image: linear-gradient(to right, red , rgb(0, 0, 0),rgb(63, 63, 113));
+            color: white;
+            text-align: center;
+            font-size: 45px;
+            transition: all .2s;
+            text-decoration: none;
+            line-height: 45px;
+            letter-spacing: 4px;
+            font-weight: bolder;
+
+            box-shadow: 0px 1px 2px 0px rgba(0,255,255,0.7),
+            1px 2px 4px 0px rgba(0,255,255,0.7),
+            2px 4px 8px 0px rgba(0,255,255,0.7),
+            2px 4px 16px 0px rgba(0,255,255,0.7);
+       
+            }
+
+            a#btn_biss
+            {
+                font-family: 'Quintessential', cursive;
+                display: block;
+                width: 244px;
+                height: 92px;
+                box-sizing: border-box;
+                border-radius: 47px;
+                margin: auto;
+                margin-top: 64px;
+                padding-top: 22px;
+                background-color: rgba(249, 225, 42, 0.714);
+                color: rgb(104, 75, 23);
+                text-align: center;
+                font-size: 45px;
+                transition: all .2s;
+                text-decoration: none;
+                line-height: 45px;
+                letter-spacing: -1px;
+                font-weight: bolder;
+    
+             
+                    box-shadow: -5px -5px 9px rgba(255,255,255,0.45), 5px 5px 9px rgba(94,104,121,0.3);
+                    }
+        
+                    a#btn_biss:hover{
+                        background-color: white;
+                    }
+                    
+           
+                
